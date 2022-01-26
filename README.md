@@ -1,2 +1,2 @@
 # BackInfo
-Binaries of Microsoft's BackInfo Utility
+Binaries for Microsoft's BackInfo Utility
