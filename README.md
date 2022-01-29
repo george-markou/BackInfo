@@ -4,10 +4,10 @@ Hey everyone!
 <p>Unfortunately, the binaries are no longer exist. The only way to acquire this tool these days is from the community :) I've created a Github repo, that contains the binaries of the utility, in an attempt to keep lights on for this utility. </p>
 <!-- /wp:paragraph -->
 <!-- wp:image {"align":"center","id":2400,"sizeSlug":"large","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://www.markou.me/wp-content/uploads/2022/01/image-3-1200x614.png" alt="" class="wp-image-2400"/><figcaption>BackInfo - look and feel</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://www.markou.me/wp-content/uploads/2022/01/image-3-1200x614.png" alt="" class="wp-image-2400"/></figure></div>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
-<p>Feel free to use the following link down below to grab a copy!</p>
+<p>Feel free to grab a copy!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
