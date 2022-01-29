@@ -5,7 +5,7 @@ Unfortunately this handy utility have been extincted. Binaries for this tool pre
 ![2022-01-23_12-13-32](https://user-images.githubusercontent.com/82205061/151133779-75da801c-a74f-4975-9574-41edc9443cec.png)
 
 <!-- wp:paragraph -->
-<p>The reason why I decided to write this post, is because many of you are searching for a system information utility and foremost because BackInfo is not being maintained or is available by Microsoft anymore. The utility was previously available with the Microsoft <a href="https://www.microsoft.com/downloads/en/details.aspx?FamilyId=5CE8F01D-A421-4DA8-9144-FBAF44E62C34&amp;displaylang=en">Windows Server System Reference Architecture Virtual Environments for Development and Test (WSSRA-VE) Deployment Kit</a>. Unfortunately, the binaries are no longer exist. The only way to acquire this tool these days is from the community :) I've created a Github repo, that contains the binaries of the utility, in an attempt to keep lights on for this utility. </p>
+<p>Unfortunately, the binaries are no longer exist. The only way to acquire this tool these days is from the community :) I've created a Github repo, that contains the binaries of the utility, in an attempt to keep lights on for this utility. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -137,10 +137,5 @@ $shortcut.Save()</code></pre>
 <p>8. Enjoy!</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>Thanks for reading my blog!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p>Feel free to drop your comment or question below.</p>
 <!-- /wp:paragraph -->
