@@ -11,7 +11,7 @@ Hey everyone!
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://github.com/george-markou/BackInfo/raw/main/Backinfo.zip">Download Li</a><a href="https://github.com/george-markou/BackInfo/raw/main/Backinfo.zip" data-type="URL" data-id="https://github.com/george-markou/BackInfo/raw/main/Backinfo.zip">nk</a> - File Hash SHA256: 977168A6FA431A439FA26792B798B0D5C39A8A219746E8FABC4531A43B7627</p>
+<p><a href="https://github.com/george-markou/BackInfo/raw/main/Backinfo.zip">Download Li</a><a href="https://github.com/george-markou/BackInfo/raw/main/Backinfo.zip" data-type="URL" data-id="https://github.com/george-markou/BackInfo/raw/main/Backinfo.zip">nk</a> - File Hash SHA256: 977168A6FA431A439FA26792B798B0D5C39A8A219746E8FABC4531A43B7627C3</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
